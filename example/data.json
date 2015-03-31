@@ -1,0 +1,191 @@
+{
+    "widgetMetrics": [{
+        "value": "104",
+        "description": "Today"
+    }, {
+        "value": "184",
+        "description": "Yesterday"
+    }, {
+        "value": "177",
+        "description": "7 days ago"
+    }, {
+        "value": "151",
+        "description": "14 days ago"
+    }],
+    "timeseries": [{
+        "date": "2015-03-01",
+        "value": 124,
+        "prettyValue": "124"
+    }, {
+        "date": "2015-03-02",
+        "value": 167,
+        "prettyValue": "167"
+    }, {
+        "date": "2015-03-03",
+        "value": 155,
+        "prettyValue": "155"
+    }, {
+        "date": "2015-03-04",
+        "value": 165,
+        "prettyValue": "165"
+    }, {
+        "date": "2015-03-05",
+        "value": 153,
+        "prettyValue": "153"
+    }, {
+        "date": "2015-03-06",
+        "value": 134,
+        "prettyValue": "134"
+    }, {
+        "date": "2015-03-07",
+        "value": 125,
+        "prettyValue": "125"
+    }, {
+        "date": "2015-03-08",
+        "value": 121,
+        "prettyValue": "121"
+    }, {
+        "date": "2015-03-09",
+        "value": 138,
+        "prettyValue": "138"
+    }, {
+        "date": "2015-03-10",
+        "value": 147,
+        "prettyValue": "147"
+    }, {
+        "date": "2015-03-11",
+        "value": 151,
+        "prettyValue": "151"
+    }, {
+        "date": "2015-03-12",
+        "value": 161,
+        "prettyValue": "161"
+    }, {
+        "date": "2015-03-13",
+        "value": 134,
+        "prettyValue": "134"
+    }, {
+        "date": "2015-03-14",
+        "value": 104,
+        "prettyValue": "104"
+    }, {
+        "date": "2015-03-15",
+        "value": 135,
+        "prettyValue": "135"
+    }, {
+        "date": "2015-03-16",
+        "value": 147,
+        "prettyValue": "147"
+    }, {
+        "date": "2015-03-17",
+        "value": 151,
+        "prettyValue": "151"
+    }, {
+        "date": "2015-03-18",
+        "value": 165,
+        "prettyValue": "165"
+    }, {
+        "date": "2015-03-19",
+        "value": 181,
+        "prettyValue": "181"
+    }, {
+        "date": "2015-03-20",
+        "value": 138,
+        "prettyValue": "138"
+    }, {
+        "date": "2015-03-21",
+        "value": 110,
+        "prettyValue": "110"
+    }, {
+        "date": "2015-03-22",
+        "value": 136,
+        "prettyValue": "136"
+    }, {
+        "date": "2015-03-23",
+        "value": 141,
+        "prettyValue": "141"
+    }, {
+        "date": "2015-03-24",
+        "value": 177,
+        "prettyValue": "177"
+    }, {
+        "date": "2015-03-25",
+        "value": 180,
+        "prettyValue": "180"
+    }, {
+        "date": "2015-03-26",
+        "value": 142,
+        "prettyValue": "142"
+    }, {
+        "date": "2015-03-27",
+        "value": 126,
+        "prettyValue": "126"
+    }, {
+        "date": "2015-03-28",
+        "value": 163,
+        "prettyValue": "163"
+    }, {
+        "date": "2015-03-29",
+        "value": 170,
+        "prettyValue": "170"
+    }, {
+        "date": "2015-03-30",
+        "value": 184,
+        "prettyValue": "184"
+    }, {
+        "date": "2015-03-31",
+        "value": 104,
+        "prettyValue": "104"
+    }],
+    "metrics": {
+        "average": "151",
+        "max": "184",
+        "min": "104",
+        "total": "4,529",
+        "today": {
+            "value": "104",
+            "description": "Today"
+        },
+        "yesterday": {
+            "value": "184",
+            "description": "Yesterday"
+        },
+        "7_days_ago": {
+            "value": "177",
+            "description": "7 days ago"
+        },
+        "14_days_ago": {
+            "value": "151",
+            "description": "14 days ago"
+        },
+        "21_days_ago": {
+            "value": "147",
+            "description": "21 days ago"
+        },
+        "28_days_ago": {
+            "value": "155",
+            "description": "28 days ago"
+        },
+        "1_week_ago": {
+            "value": "1,065",
+            "description": "1 week ago"
+        },
+        "2_weeks_ago": {
+            "value": "1,027",
+            "description": "2 weeks ago"
+        },
+        "3_weeks_ago": {
+            "value": "956",
+            "description": "3 weeks ago"
+        },
+        "this_week": {
+            "value": "458",
+            "description": "This week"
+        },
+        "this_month": {
+            "value": "4,529",
+            "description": "This month"
+        }
+    },
+    "service": "google-analytics"
+}
